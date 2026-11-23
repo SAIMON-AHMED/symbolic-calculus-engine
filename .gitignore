@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary dumps or build artifacts
+*.bin
+build/
+dist/
+*.egg-info/
+
+# Environment / IDE files
+.vscode/
+.idea/
+.DS_Store
+
+# Instruction file
+*Role & Objective*
+
+
